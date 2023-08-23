@@ -1,3 +1,6 @@
+2023/08/23
+Added summary of all content in the 2023-08-16_Ni_NFDI.edaxh5 file.
+
 2023/07/25
 This is a summary of the HDF5 path for each attribute, field, and group, datatype, shape and first value extracted using the edaxh5 parser on the following file generated to foster knowledge exchange across MatWerk and FAIRmat.
 
